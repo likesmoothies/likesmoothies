@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @likesmoothies
 - 👀 I’m interested in Software Development Engineer in Test
-- 🌱 I’m currently learning Automation
+- 🌱 I’m currently learning Automation (Flutter & Playwright)
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/andiawwal/
 
