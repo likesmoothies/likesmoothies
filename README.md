@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @likesmoothies
+- 👋 Hi, I @likesmoothies
 - 👀 I’m interested in Software Development Engineer in Test
 - 🌱 I’m currently learning Automation (Flutter & Playwright)
 - 💞️ I’m looking to collaborate on 
